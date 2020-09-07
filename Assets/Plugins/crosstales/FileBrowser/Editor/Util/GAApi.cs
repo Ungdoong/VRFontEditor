@@ -1,26 +1,3 @@
-﻿namespace Crosstales.FB.EditorUtil
-{
-    /// <summary>GA-wrapper API.</summary>
-    public abstract class GAApi : Common.EditorUtil.BaseGAApi
-    {
-
-        #region Public methods
-
-        /// <summary>Tracks an event from the asset.</summary>
-        /// <param name="category">Specifies the event category.</param>
-        /// <param name="action">Specifies the event action.</param>
-        /// <param name="label">Specifies the event label.</param>
-        /// <param name="value">Specifies the event value.</param>
-        public static void Event(string category, string action, string label = "", int value = 0)
-        {
-            if (EditorConfig.TELEMETRY)
-            {
-                Event(Util.Constants.ASSET_NAME, Util.Constants.ASSET_VERSION, category, action, label, value);
-            }
-        }
-
-        #endregion
-
-    }
-}
-// © 2017-2018 crosstales LLC (https://www.crosstales.com)
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc7a409713f79a85b3d91ed8d016177e31a1c4509f0af30638923004833a1ed
+size 910

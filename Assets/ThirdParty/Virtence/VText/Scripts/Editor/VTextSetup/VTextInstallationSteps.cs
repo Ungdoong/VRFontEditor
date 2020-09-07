@@ -1,20 +1,3 @@
-﻿// ----------------------------------------------------------------------
-// File: 		InstallationSteps
-// Organisation: 	Virtence GmbH
-// Department:   	Simulation Development
-// Copyright:    	© 2014 Virtence GmbH. All rights reserved
-// Author:       	Silvio Lange (silvio.lange@virtence.com)
-// ----------------------------------------------------------------------
-
-/// <summary>
-/// the needed installation steps
-/// </summary>
-public enum VTextInstallationSteps 
-{	
-    Unknown = 0,
-	Welcome,
-    LegalInformations,
-    Installation,
-    InstallFonts,
-    Finish,
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f04c88939cfb4396ddfae08970ef7eb424c38d839a262182ac4a512259127079
+size 576

@@ -1,21 +1,3 @@
-fileFormatVersion: 2
-guid: 46e5f6bfd5d20b64887a9086e9c2e7b6
-labels:
-- PBR
-- dusty
-- material
-- texture
-- clear
-- transparent
-- glass
-- dried
-- drips
-- generic
-- common
-- ordinary
-timeCreated: 1439320571
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c63a1281e934c16e649fef98379ddba0f2047b5a392d5eb1fc5dac70ffa3719
+size 300

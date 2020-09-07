@@ -1,19 +1,3 @@
-﻿// ----------------------------------------------------------------------
-// File: 		VTextEditorTools
-// Organisation: 	Virtence GmbH
-// Department:   	Simulation Development
-// Copyright:    	© 2014 Virtence GmbH. All rights reserved
-// Author:       	Silvio Lange (silvio.lange@virtence.com)
-// ----------------------------------------------------------------------
-
-/// <summary>
-/// the tools which are setup in the toolbar
-/// </summary>
-public enum VTextEditorTools 
-{	
-	Style = 0,
-    Mesh,
-    Layout,
-    Physics,
-    Scripts,	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:59adfdf793c7590b4284090f339729ab0d63a9bd6a76b48255bfeb1d9255dd37
+size 543

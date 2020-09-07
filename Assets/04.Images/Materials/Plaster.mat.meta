@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 97c778629b6490e48a8d8f5b02158ce4
-labels:
-- Granite
-- PBR
-- mat
-- material
-- matte
-- rough
-- texture
-timeCreated: 1491310491
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:84febb59f717ae1af4195a5447b0ea019ccea42621baf4fb091f93f59a7231a7
+size 248

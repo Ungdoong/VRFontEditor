@@ -1,24 +1,3 @@
-﻿using UnityEngine;
-
-namespace Crosstales.FB.Util
-{
-    /// <summary>Various helper functions.</summary>
-    public abstract class Helper : Common.Util.BaseHelper
-    {
-
-        #region Static properties
-
-        /// <summary>Checks if the current platform is supported.</summary>
-        /// <returns>True if the current platform is supported.</returns>
-        public static bool isSupportedPlatform
-        {
-            get
-            {
-                return isWindowsPlatform || isMacOSPlatform;
-            }
-        }
-
-        #endregion
-    }
-}
-// © 2017-2018 crosstales LLC (https://www.crosstales.com)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2278eb9fb50b2445ad7bc3d0dd59ddebd679a261ebaac89c723178247081335b
+size 616

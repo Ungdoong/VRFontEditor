@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 0322a304fb9696e458d22e11b9c7c5a7
-labels:
-- Architecture
-- Stone
-- Tile
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4eab8b45928a9ed32d45b9d99c2f4c772f5e11215c5d255824d701390f1bc40
+size 228

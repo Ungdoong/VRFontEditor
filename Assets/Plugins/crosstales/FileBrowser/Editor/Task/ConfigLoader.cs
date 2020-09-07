@@ -1,26 +1,3 @@
-﻿using UnityEngine;
-using UnityEditor;
-
-namespace Crosstales.FB.EditorTask
-{
-    /// <summary>Loads the configuration at startup.</summary>
-    [InitializeOnLoad]
-    public static class ConfigLoader
-    {
-
-        #region Constructor
-
-        static ConfigLoader()
-        {
-            if (!Util.Config.isLoaded) {
-                Util.Config.Load();
-
-                if (Util.Config.DEBUG)
-                    Debug.Log("Config data loaded");
-            }
-        }
-
-        #endregion
-    }
-}
-// © 2017-2018 crosstales LLC (https://www.crosstales.com)
+version https://git-lfs.github.com/spec/v1
+oid sha256:95432debbe6313db59c509a607f08081e5bfbc2750cf6241d3b5c412f112ee5b
+size 559

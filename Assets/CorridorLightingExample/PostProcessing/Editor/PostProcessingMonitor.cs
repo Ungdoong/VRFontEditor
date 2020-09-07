@@ -1,34 +1,3 @@
-using System;
-using UnityEngine;
-
-namespace UnityEditor.PostProcessing
-{
-    using MonitorSettings = UnityEngine.PostProcessing.PostProcessingProfile.MonitorSettings;
-
-    public abstract class PostProcessingMonitor : IDisposable
-    {
-        protected MonitorSettings m_MonitorSettings;
-        protected PostProcessingInspector m_BaseEditor;
-
-        public void Init(MonitorSettings monitorSettings, PostProcessingInspector baseEditor)
-        {
-            m_MonitorSettings = monitorSettings;
-            m_BaseEditor = baseEditor;
-        }
-
-        public abstract bool IsSupported();
-
-        public abstract GUIContent GetMonitorTitle();
-
-        public virtual void OnMonitorSettings()
-        {}
-
-        public abstract void OnMonitorGUI(Rect r);
-
-        public virtual void OnFrameData(RenderTexture source)
-        {}
-
-        public virtual void Dispose()
-        {}
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:42c1bd06a3a303f5cd8204091393a2afd8aa424bd16fc705b94c49b428494d1b
+size 892

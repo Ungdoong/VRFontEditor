@@ -1,27 +1,3 @@
-﻿// ----------------------------------------------------------------------
-// File: 		IGenericEventArgs
-// Organisation: 	Virtence GmbH
-// Department:   	Simulation Development
-// Copyright:    	© 2014 Virtence GmbH. All rights reserved
-// Author:       	Silvio Lange (silvio.lange@virtence.com)
-// ----------------------------------------------------------------------
-
-/// <summary>
-/// 
-/// </summary>
-public interface IGenericEventArgs<T>
-{	
-	#region EVENTS
-	
-	#endregion // EVENTS
-
-
-	#region PROPERTIES
-    T Value { get; }
-	#endregion // PROPERTIES
-	
-	
-	#region METHODS
-	
-	#endregion // METHODS	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:541e28cd0eea1c13f64f5dbf2efe6181815c6a6bf9718a078bb807b493471c33
+size 607

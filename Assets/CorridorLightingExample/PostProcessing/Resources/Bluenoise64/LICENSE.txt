@@ -1,9 +1,3 @@
-To the extent possible under law, Christoph Peters has waived all copyright and 
-related or neighboring rights to the files in this directory and its 
-subdirectories. This work is published from: Germany. 
-
-The work is made available under the terms of the Creative Commons CC0 Public 
-Domain Dedication.
-
-For more information please visit:
-https://creativecommons.org/publicdomain/zero/1.0/
+version https://git-lfs.github.com/spec/v1
+oid sha256:069fdd624fc8f317cc42b41c898cfed588813f76585fd3c6fad8a0e9c1084423
+size 392

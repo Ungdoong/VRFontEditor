@@ -1,22 +1,3 @@
-fileFormatVersion: 2
-guid: 6d51a040496b1904b84d08a2e2c3f292
-TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontName: BM JUA_TTF
-  fontNames:
-  - BM JUA_TTF
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  shouldRoundAdvanceValue: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bc792fd3af42ea12dab1c1e6bdd229edc99504aee43daf625656fae5530d2ff
+size 498

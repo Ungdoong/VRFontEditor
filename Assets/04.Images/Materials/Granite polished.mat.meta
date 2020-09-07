@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a91e5aa018939f746a91917ed7027708
-labels:
-- Granite
-- PBR
-- material
-- polished
-- smooth
-- texture
-timeCreated: 1491310491
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd8b1faa51612f11c661fe9d8eb90041abadf2371046660e7221ffdd6a7a8ae
+size 246

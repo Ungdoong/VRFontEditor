@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 91db971f356a07d42b095b71e57a75af
-labels:
-- Door
-- Fantasy
-- Wood
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:6120fa0f710dfa2073b8dd75750962dd0c9aa5815276cedf7d8970f65ae07e13
+size 222

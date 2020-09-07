@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: b9f4a9682ca0a4441a5cd19f4f2fa1bc
-labels:
-- Dark
-- Fantasy
-- Furniture
-- Interior
-- Table
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:624026ced98fec37fac681ba9a0a3b238c587d2d6b5fd4d7b245ee38d2120c69
+size 246

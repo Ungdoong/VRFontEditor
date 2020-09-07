@@ -1,16 +1,3 @@
-using UnityEngine.PostProcessing;
-
-namespace UnityEditor.PostProcessing
-{
-    [PostProcessingModelEditor(typeof(DitheringModel))]
-    public class DitheringModelEditor : PostProcessingModelEditor
-    {
-        public override void OnInspectorGUI()
-        {
-            if (profile.grain.enabled && target.enabled)
-                EditorGUILayout.HelpBox("Grain is enabled, you probably don't need dithering !", MessageType.Warning);
-            else
-                EditorGUILayout.HelpBox("Nothing to configure !", MessageType.Info);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fa8452c937bf2de5d8f11760e977f42f8d2d1a41bcfc62123f52e2e6bd814c4
+size 554

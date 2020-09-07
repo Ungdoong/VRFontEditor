@@ -1,13 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!134 &13400000
-PhysicMaterial:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: SunBounceMAterial
-  dynamicFriction: 0.3
-  staticFriction: 0.3
-  bounciness: 0.6
-  frictionCombine: 0
-  bounceCombine: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6708a67e85e3f0494b47eee36d643035bba8d99e3b5b8aa4003bc1537bde1f93
+size 307

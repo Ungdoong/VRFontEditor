@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 0c0aee4764d3c1e47bc704c0fbfa3a77
-labels:
-- Container
-- Fantasy
-- Furniture
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a8a07461eb402955d938d294f86e632ed4385b8a4d3cab2e326bead62cb4a02
+size 232

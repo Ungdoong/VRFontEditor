@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 70eb0852fd599cc4d8fa9ce8901a90ff
-labels:
-- Dark
-- Fabric
-- Prop
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fb4c98162256c52fe4e5d11d02b5a8dc2b42b0ce4b05cc28d991057fb5e15cb
+size 221

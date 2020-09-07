@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 84cdff24186c12d4ca92d020d540b891
-labels:
-- Dark
-- Fantasy
-- Light
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:f66adc52040d5c1386c96c5439e3c5fd43f0fd3d7a943490c0883586deff84ea
+size 223

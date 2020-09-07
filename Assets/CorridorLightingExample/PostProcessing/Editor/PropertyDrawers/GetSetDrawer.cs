@@ -1,36 +1,3 @@
-using UnityEngine;
-using UnityEngine.PostProcessing;
-
-namespace UnityEditor.PostProcessing
-{
-    [CustomPropertyDrawer(typeof(GetSetAttribute))]
-    sealed class GetSetDrawer : PropertyDrawer
-    {
-        public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
-        {
-            var attribute = (GetSetAttribute)base.attribute;
-
-            EditorGUI.BeginChangeCheck();
-            EditorGUI.PropertyField(position, property, label);
-
-            if (EditorGUI.EndChangeCheck())
-            {
-                attribute.dirty = true;
-            }
-            else if (attribute.dirty)
-            {
-                var parent = ReflectionUtils.GetParentObject(property.propertyPath, property.serializedObject.targetObject);
-
-                var type = parent.GetType();
-                var info = type.GetProperty(attribute.name);
-
-                if (info == null)
-                    Debug.LogError("Invalid property name \"" + attribute.name + "\"");
-                else
-                    info.SetValue(parent, fieldInfo.GetValue(parent), null);
-
-                attribute.dirty = false;
-            }
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab072316df2f43948b9b62cd3788db531dd92f2585492141341843ffc8be0ad
+size 1165

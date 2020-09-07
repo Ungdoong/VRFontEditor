@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: d9701c9a48aaebe40813707f15a57b7d
-labels:
-- Architecture
-- Fantasy
-- Tile
-- Wood
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfedc77b27dd01594e4271e72cdc0789d6ea428044fae4b8d6e8428f469830f5
+size 237
